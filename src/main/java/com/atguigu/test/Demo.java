@@ -10,5 +10,6 @@ public class Demo {
         //马上就上映了
 
     }
+    public void watchmovie(){}
 }
 //我要去看这个电影
